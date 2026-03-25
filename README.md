@@ -27,7 +27,7 @@ A modern, themeable React component library with built-in multi-theme support. B
 ## 🚀 Installation
 
 ```bash
-npm install zaalim-ui
+npm install beauty-ui
 ```
 
 ## ⚡ Quick Start
@@ -35,7 +35,7 @@ npm install zaalim-ui
 ### Basic Usage
 
 ```bash
-import { Button, ThemeProvider } from 'zaalim-ui';
+import { Button, ThemeProvider } from 'beauty-ui';
 
 function App() {
   return (
@@ -49,7 +49,7 @@ function App() {
 ### Theme Switching
 
 ```bash
-import { ThemeProvider, Button, useTheme } from 'zaalim-ui';
+import { ThemeProvider, Button, useTheme } from 'beauty-ui';
 
 function ThemeToggle() {
   const { theme, setTheme } = useTheme();
@@ -70,7 +70,7 @@ function ThemeToggle() {
 ### Monorepo Architecture
 
 ```bash
-zaalim-ui/
+beauty-ui/
 ├── packages/
 │   ├── ui/                    # Core component library
 │   ├── docs/                  # Next.js documentation site
@@ -114,7 +114,7 @@ zaalim-ui/
 ### Using Built-in Themes
 
 ```bash
-import { ThemeProvider, Button } from 'zaalim-ui';
+import { ThemeProvider, Button } from 'beauty-ui';
 
 function App() {
   return (
@@ -131,7 +131,7 @@ function App() {
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/zaalim-ui.git
+git clone https://github.com/ZuhaibHunzai/beauty-ui.git
 
 # Install dependencies
 npm install
