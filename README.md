@@ -1,6 +1,6 @@
-# Zaalim UI
+# Beauty UI
 
-![Zaalim UI Banner](assets/banner.png)
+![Beauty UI Banner](assets/banner.png)
 
 A modern, themeable React component library with built-in multi-theme support. Built with TypeScript and TailwindCSS for seamless developer experience.
 
@@ -210,4 +210,4 @@ Clear node_modules and reinstall: npm clean-install
 
 ## 📄 License
 
-MIT © Zaalim UI
+MIT © Beauty UI
